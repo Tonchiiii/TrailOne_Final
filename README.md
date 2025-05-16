@@ -12,7 +12,7 @@ A Django-based shipment and inventory management system for container truck comp
 ## Installation
 
 Clone the repository:
-   git clone https://github.com/yourusername/trailone.git
+   git clone https://github.com/Tonchiiii/TrailOne_Final.git
    cd trailone
    
 Create and activate a virtual environment:
